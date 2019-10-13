@@ -1,0 +1,17 @@
+LINKS
+
+ApplicationFile.cpp 
+https://stackoverflow.com/questions/13298550/eclipse-c-including-header-file-from-my-source-folder
+www.cplusplus.com/forum/beginner/2624/ 
+gist.github.com/jpkrause/4a1aa400d45197ca3253
+www.cplusplus.com/reference/string/string/compare/
+
+ChessGame.cpp
+http://www.cplusplus.com/articles/4z18T05o/
+Read and Write Binary file :
+https://stackoverflow.com/questions/16002680/writing-reading-2d-array-to-binary-file-c
+https://en.cppreference.com/w/cpp/memory/unique_ptr
+https://www.youtube.com/watch?v=z2Q1cvotLCk
+
+Report.docx
+https://www.programiz.com/cpp-programming/library-function/iostream/cin.
